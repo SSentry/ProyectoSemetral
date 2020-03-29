@@ -66,6 +66,7 @@ public class DetalleSandwich extends AppCompatActivity {
         descripcionn.setText(Descripcion);
         precioo.setText("$ "+Precio);
 
+        // mensajes de prueba
         Log.i("infoo","LLego Nombre = "+nombre);
         Log.i("infoo","LLego Descripcion = "+Descripcion);
         Log.i("infoo","LLego Precio = "+Precio);
