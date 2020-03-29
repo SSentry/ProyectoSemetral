@@ -1,0 +1,54 @@
+<resources>
+    // TITULOS APPBAR
+
+    <string name="sandwichess">Sandwiches</string>
+    <string name="Detalle_SandWich">Detalle SandWich</string>
+
+
+
+    <string name="app_name">FastFOOD</string>
+    <string name="SANDWICHES">SANDWICHES</string>
+    <string name="NOMBRE_SANDWICH">NOMBRE SANDWICH</string>
+    <string name="DESCRIPCION_SANDWICH">DESCRIPCION SANDWICH</string>
+    <string name="PRECIO">PRECIO :</string>
+    <string name="PRECIO_SANDWICH">0</string>
+
+    //NOMBRES DE SANDWHICH
+
+    <string name="NOMBRE_ITALIANO">ITALIANO</string>
+    <string name="NOMBRE_CHACARERO">CHACARERO</string>
+    <string name="NOMBRE_BARROS_LUCO">BARROS LUCO</string>
+    <string name="NOMBRE_MECHADO">MECHADO</string>
+    <string name="NOMBRE_AVE_PALTA">AVE PALTA</string>
+
+
+    // DESCRIPCIONES SANDWICH
+    <string name="DESCRIPCION_ITALIANO">CONTIENE 400 GRAMOS DE BISTEC DE POSTA ROSADA , 2 PALTAS GRANDECITAS TOMATE. MAYONESA QUE REPOSAN SONRE DOS PANES FRICA.</string>
+    <string name="DESCRIPCION_CHACARERO">CONTIENE 500 GRAMOS DE BISTEC DE POSTA ROSADA , 2 PALTAS GRANDECITAS TOMATE. MAYONESA QUE REPOSAN SONRE DOS PANES FRICA.</string>
+    <string name="DESCRIPCION_BARROS_LUCO">CONTIENE 400 GRAMOS DE BISTEC DE POSTA CERDO , 2 PALTAS GRANDECITAS TOMATE. MAYONESA QUE REPOSAN SONRE DOS PANES FRICA.</string>
+    <string name="DESCRIPCION_MECHADO">CONTIENE 600 GRAMOS DE BISTEC DE POSTA ROSADA , 2 PALTAS GRANDECITAS TOMATE. MAYONESA QUE REPOSAN SONRE DOS PANES FRICA.</string>
+    <string name="DESCRIPCION_AVE_FALTA">CONTIENE 400 GRAMOS DE PECHUGA DE POLLO , 2 PALTAS GRANDECITAS TOMATE. MAYONESA QUE REPOSAN SONRE DOS PANES FRICA.</string>
+
+    // PRECIOS DE SANDWICH
+
+    <string name="PRECIO_ITALIANO">3500</string>
+    <string name="PRECIO_CHACARERO">4000</string>
+    <string name="PRECIO_BARROS_LUCO">4500</string>
+    <string name="PRECIO_MECHADO">5000</string>
+    <string name="PRECIO_AVE_PALTA">2500</string>
+
+    // IDENTIFICADOR DE SANDWICH
+
+    <string name="IDENTIFICADOR_ITALIANO">0</string>
+    <string name="IDENTIFICADOR_CHACARERO">1</string>
+    <string name="IDENTIFICADOR_BARROS_LUCO">2</string>
+    <string name="IDENTIFICADOR_MECHADO">3</string>
+    <string name="IDENTIFICADOR_AVE_PALTA">4</string>
+
+
+    <string name="SOBRE_NOSOTROS">SOBRE NOSOTROS</string>
+    <string name="DESCRIPCION_SOBRE_NOSOTROS">SOMOS UNA EMPRESA DE LA REGION CON MAS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES!</string>
+
+
+
+</resources>
